@@ -24,7 +24,7 @@ const initRoutes = require("./routes");
 
 
 var corsOptions = {
-  origin: "http://localhost:3000"
+  origin: "*"
 };
 
 app.use(cors(corsOptions));
