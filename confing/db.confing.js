@@ -1,3 +1,3 @@
 module.exports = {
-    url: "mongodb://localhost:27017/regression"
+    url: "mongodb+srv://ravidholariya:Ravi1234@cluster0.rfen3ub.mongodb.net/Registration"
   };
