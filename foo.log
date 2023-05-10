@@ -1,0 +1,10 @@
+{"name":"foo","hostname":"raviDholariya","pid":21016,"level":30,"msg":"TypeError: a.toFixed is not a functiona.toFixed is not a function","time":"2023-05-06T12:21:12.205Z","v":0}
+{"name":"foo","hostname":"raviDholariya","pid":21016,"level":30,"msg":"TypeError: a.toFixed is not a functiona.toFixed is not a function","time":"2023-05-06T12:32:43.631Z","v":0}
+{"name":"foo","hostname":"raviDholariya","pid":23632,"level":30,"msg":"TypeError: a.toFixed is not a functiona.toFixed is not a function","time":"2023-05-06T12:33:45.594Z","v":0}
+{"name":"foo","hostname":"raviDholariya","pid":18912,"level":30,"msg":"TypeError: a.toFixed is not a functiona.toFixed is not a function","time":"2023-05-08T08:55:27.475Z","v":0}
+{"name":"foo","hostname":"raviDholariya","pid":18912,"level":30,"msg":"TypeError: a.toFixed is not a functiona.toFixed is not a function","time":"2023-05-08T08:56:13.283Z","v":0}
+{"name":"foo","hostname":"raviDholariya","pid":12108,"level":30,"msg":"TypeError: a.toFixed is not a functiona.toFixed is not a function","time":"2023-05-08T10:03:59.850Z","v":0}
+{"name":"foo","hostname":"raviDholariya","pid":10604,"level":30,"msg":"SyntaxError: Unexpected number in JSON at position 94Unexpected number in JSON at position 94","time":"2023-05-10T09:04:04.496Z","v":0}
+{"name":"foo","hostname":"raviDholariya","pid":10604,"level":30,"msg":"ReferenceError: Tutorial is not definedTutorial is not defined","time":"2023-05-10T09:04:23.664Z","v":0}
+{"name":"foo","hostname":"raviDholariya","pid":10604,"level":30,"msg":"ReferenceError: Tutorial is not definedTutorial is not defined","time":"2023-05-10T09:04:31.517Z","v":0}
+{"name":"foo","hostname":"raviDholariya","pid":10604,"level":30,"msg":"ReferenceError: Tutorial is not definedTutorial is not defined","time":"2023-05-10T09:04:32.911Z","v":0}

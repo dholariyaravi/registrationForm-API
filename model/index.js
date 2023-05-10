@@ -1,0 +1,19 @@
+const dbConfig = require("../confing/db.confing.js");
+
+
+const mongoose = require("mongoose");
+mongoose.Promise = global.Promise;
+
+const db = {};
+db.mongoose = mongoose;
+db.url = dbConfig.url;
+db.regression = require("./regression.model.js")(mongoose);
+
+
+db.user = require("./user.model.js");
+db.role = require("./role.model.js");
+
+db.ROLES = ["user", "admin", "moderator"];
+
+
+module.exports = db;
