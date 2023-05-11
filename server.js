@@ -3,6 +3,7 @@ const cors = require("cors");
 const app = express();
 const  fs = require('fs');
 
+
 // ================= swaggerUi code============================ 
 const swaggerUi = require('swagger-ui-express');
 const swaggerDocument = require('./swagger.json');
@@ -48,6 +49,7 @@ db.mongoose
 // parse requests of content-type - application/json
 app.use(express.json());
 
+
 // app.use(cors(corsOptions));
 
 // parse requests of content-type - application/x-www-form-urlencoded
@@ -56,7 +58,6 @@ app.use(express.urlencoded({ extended: true }));
 app.use('/api-docs11', swaggerUi.serve, swaggerUi.setup(swaggerDocument, {customCss}));
 
 initRoutes(app);
-
 
 
 require("./routes/regression.routes")(app);
