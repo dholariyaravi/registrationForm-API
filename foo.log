@@ -8,3 +8,4 @@
 {"name":"foo","hostname":"raviDholariya","pid":10604,"level":30,"msg":"ReferenceError: Tutorial is not definedTutorial is not defined","time":"2023-05-10T09:04:23.664Z","v":0}
 {"name":"foo","hostname":"raviDholariya","pid":10604,"level":30,"msg":"ReferenceError: Tutorial is not definedTutorial is not defined","time":"2023-05-10T09:04:31.517Z","v":0}
 {"name":"foo","hostname":"raviDholariya","pid":10604,"level":30,"msg":"ReferenceError: Tutorial is not definedTutorial is not defined","time":"2023-05-10T09:04:32.911Z","v":0}
+{"name":"foo","hostname":"raviDholariya","pid":14824,"level":30,"msg":"SyntaxError: Unexpected end of JSON inputUnexpected end of JSON input","time":"2023-05-11T12:45:34.812Z","v":0}
