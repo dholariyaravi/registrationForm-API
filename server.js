@@ -26,7 +26,7 @@ const initRoutes = require("./routes");
 
 var corsOptions = {
   origin: "*"
-};
+};  
 
 app.use(cors(corsOptions));
 

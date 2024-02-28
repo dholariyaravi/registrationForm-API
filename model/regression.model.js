@@ -5,7 +5,7 @@ module.exports = mongoose => {
         {
             name: String,
             parentsname: String,
-            studentmobile: Number,
+            studentmobile:Number,
             parentmobile:Number,
             email: String,
             birthdate: Date,
